@@ -1,4 +1,4 @@
-## How to Run
+## To execute the code, follow these steps.
 
 1. **Clone the repository:**
    ```bash
