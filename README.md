@@ -11,7 +11,7 @@
    npm install
    ```
 
-3. **Start the application:**
+3. **Begin the application:**
    ```bash
    npm run dev
    ```
