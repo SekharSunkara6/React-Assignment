@@ -3,7 +3,7 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/SekharSunkara6/React-Assignment.git
-   cd customer-portal
+   cd React-Assignment
    ```
 
 2. **Install dependencies:**
