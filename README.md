@@ -1,3 +1,11 @@
+## Cube Assignment
+
+## Here are the key features of the application:
+- Customer List: Lists customers on the left side.
+- Customer Details: Displays detailed info (name, title, address) and a 3x3 photo grid on the right side.
+- Dynamic Photo Grid: The grid refreshes every 10 seconds with photos from a public API.
+- Highlighted Selection: The chosen customer card is highlighted.
+
 ## To execute the code, follow these steps.
 
 1. **Clone the repository:**
