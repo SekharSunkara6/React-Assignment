@@ -2,7 +2,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/customer-portal.git
+   git clone https://github.com/SekharSunkara6/React-Assignment.git
    cd customer-portal
    ```
 
